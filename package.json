@@ -9,7 +9,7 @@
   "author": "ms2sato",
   "license": "MIT",
   "dependencies": {
-    "koa": "^2.13.0",
+    "koa": "^3.0.1",
     "koa-bodyparser": "^4.3.0",
     "koa-json-body": "^5.3.0",
     "raw-body": "^2.4.1"
